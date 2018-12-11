@@ -1,4 +1,4 @@
-# NFA-DFA-Converter + Simulator
+# NFA-DFA [Converter + Simulator]
 
 ## Features:
 
