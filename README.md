@@ -9,9 +9,9 @@ In the output of state table, '( )' represents end state and '[ ]' represents st
 
 ## Steps:
 ``
-g++ FA.cpp 
-./a.out 			//to give input of each transition manually
-./a.out <in.txt 	//to give input from in.txt
+g++ FA.cpp  
+./a.out 			//to give input of each transition manually  
+./a.out <in.txt 	//to give input from in.txt  
 ``
 
 3 Example input files have been attached for DFA, NFA, and Complex Models.  
